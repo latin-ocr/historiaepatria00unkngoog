@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaepatria00unkngoog_0007.png"; bbox 0 0 4050 6109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 831 2040 3038 2577">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 831 2040 3038 2577">
+     <span class='ocr_line' id='line_1_1' title="bbox 1174 2040 2683 2213; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1174 2040 2683 2213; x_wconf 79' lang='lat' dir='ltr'>MONVMENTA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 831 2376 3038 2577; baseline -0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 831 2446 2002 2577; x_wconf 80' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 2136 2376 3038 2573; x_wconf 44' lang='lat' dir='ltr'><strong>PA‘TRIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1547 2992 2329 3061">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1547 2992 2329 3061">
+     <span class='ocr_line' id='line_1_3' title="bbox 1547 2992 2329 3061; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 1547 2992 1878 3058; x_wconf 89' lang='lat' dir='ltr'>TOMV</span> <span class='ocrx_word' id='word_1_5' title='bbox 1905 2993 2329 3061; x_wconf 84' lang='lat' dir='ltr'><strong>XXXXX</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
